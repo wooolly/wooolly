@@ -1,0 +1,14 @@
+<map id="Maker.API.Containers.Interfaces.IService" name="Maker.API.Containers.Interfaces.IService">
+<area shape="rect" id="Node000001" title=" " alt="" coords="143,23,356,63"/>
+<area shape="rect" id="Node000003" href="$class_maker_1_1_a_p_i_1_1_debugger.html" title=" " alt="" coords="669,5,811,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="370,20,404,17,545,11,668,13,668,18,545,16,404,22,370,26"/>
+<area shape="rect" id="Node000004" href="$interface_maker_1_1_a_p_i_1_1_interfaces_1_1_i_debugger.html" title=" " alt="" coords="404,31,609,56"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,41,404,41,404,46,369,46"/>
+<area shape="rect" id="Node000005" href="$interface_maker_1_1_a_p_i_1_1_x_m_l_1_1_interfaces_1_1_i_manifest.html" title="A template of information provided in the manifest file, irrespective of source format (XML/CSV/...." alt="" coords="419,81,595,121"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="354,64,419,79,418,84,352,69"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,31,95,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,41,143,41,143,46,109,46"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="623,28,668,23,669,28,623,33"/>
+<area shape="rect" id="Node000006" href="$class_maker_1_1_a_p_i_1_1_x_m_l_1_1_manifest.html" title="The Maker: Online XML class which holds all readonly data from the manifest file. This class doesn&#39;t ..." alt="" coords="657,88,823,113"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="609,98,657,98,657,103,609,103"/>
+</map>

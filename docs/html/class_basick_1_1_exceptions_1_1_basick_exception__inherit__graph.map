@@ -1,0 +1,25 @@
+<map id="Basick.Exceptions.BasickException" name="Basick.Exceptions.BasickException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,165,308,205"/>
+<area shape="rect" id="Node000003" href="$class_basick_1_1_exceptions_1_1_missing_component_exception.html" title=" " alt="" coords="399,5,579,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,153,292,102,322,77,355,55,398,38,400,42,357,60,325,81,295,106,248,156"/>
+<area shape="rect" id="Node000004" href="$class_basick_1_1_exceptions_1_1_multiple_singleton_exception.html" title=" " alt="" coords="399,69,579,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,157,355,119,398,106,400,111,357,124,272,161"/>
+<area shape="rect" id="Node000005" href="$class_basick_1_1_submodules_1_1_assembly_1_1_exceptions_1_1_basick_assembly_exception.html" title="The base class for all assembly related errors that may occur in Maker: Online." alt="" coords="366,133,613,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="322,171,366,165,366,171,322,176"/>
+<area shape="rect" id="Node000010" href="$class_basick_1_1_submodules_1_1_versioning_1_1_exceptions_1_1_invalid_segment_index_exception.html" title=" " alt="" coords="356,197,623,237"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="322,195,356,199,355,204,321,200"/>
+<area shape="rect" id="Node000011" href="$class_basick_1_1_submodules_1_1_weaver_1_1_exceptions_1_1_mismatched_type_exception.html" title=" " alt="" coords="365,261,613,301"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="272,209,357,247,395,259,394,264,355,252,270,214"/>
+<area shape="rect" id="Node000012" href="$class_basick_1_1_submodules_1_1_x_m_l_1_1_exceptions_1_1_null_parsable_exception.html" title=" " alt="" coords="369,325,609,365"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="248,214,295,265,325,290,357,311,384,323,382,328,355,316,322,294,292,269,244,218"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,173,85,198"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,183,133,183,133,188,99,188"/>
+<area shape="rect" id="Node000006" href="$class_basick_1_1_submodules_1_1_assembly_1_1_exceptions_1_1_invalid_implementation_exception.html" title="Thrown when there are too few or too many implementations of an interface that should only be inherit..." alt="" coords="699,22,914,77"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="602,127,621,119,645,103,669,87,701,74,703,79,672,92,648,108,624,124,604,131"/>
+<area shape="rect" id="Node000007" href="$class_basick_1_1_submodules_1_1_assembly_1_1_exceptions_1_1_locked_loading_exception.html" title="Thrown when something attempts to load a DLL into a manager that is locked." alt="" coords="689,101,925,141"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="626,137,688,131,689,136,627,142"/>
+<area shape="rect" id="Node000008" href="$class_basick_1_1_submodules_1_1_assembly_1_1_exceptions_1_1_unexpected_type_exception.html" title=" " alt="" coords="683,165,930,205"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="627,164,684,170,683,176,626,170"/>
+<area shape="rect" id="Node000009" href="$class_basick_1_1_submodules_1_1_assembly_1_1_exceptions_1_1_unsupported_overload_exception.html" title=" " alt="" coords="671,229,943,269"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="604,175,624,183,648,199,672,215,705,227,703,232,669,220,645,204,621,188,602,180"/>
+</map>

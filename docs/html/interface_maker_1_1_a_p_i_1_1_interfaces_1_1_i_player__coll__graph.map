@@ -1,0 +1,7 @@
+<map id="Maker.API.Interfaces.IPlayer" name="Maker.API.Interfaces.IPlayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,192,177"/>
+<area shape="rect" id="Node000002" href="$interface_basick_1_1_submodules_1_1_assembly_1_1_interfaces_1_1_i_callable.html" title="A callable is any class which may be interacted with directly by Maker via the API...." alt="" coords="63,79,134,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,118,101,152,96,152,96,118"/>
+<area shape="rect" id="Node000003" href="$interface_basick_1_1_submodules_1_1_assembly_1_1_interfaces_1_1_i_base.html" title=" " alt="" coords="71,5,126,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,44,101,79,96,79,96,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Maker.API.XML.Interfaces.IMetadata" name="Maker.API.XML.Interfaces.IMetadata">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,181,192"/>
+<area shape="rect" id="Node000004" href="$class_maker_1_1_a_p_i_1_1_x_m_l_1_1_metadata.html" title=" " alt="" coords="8,240,179,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,206,96,240,91,240,91,206"/>
+<area shape="rect" id="Node000002" href="$interface_maker_1_1_a_p_i_1_1_x_m_l_1_1_interfaces_1_1_i_manifest_element.html" title=" " alt="" coords="32,79,155,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,118,96,152,91,152,91,118"/>
+<area shape="rect" id="Node000003" href="$interface_basick_1_1_submodules_1_1_x_m_l_1_1_interfaces_1_1_i_parsable.html" title="Any object which can be parsed by the IParser. This supports inner IParsable&#39;s." alt="" coords="55,5,131,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,44,96,79,91,79,91,44"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Maker.API.Gamemode" name="Maker.API.Gamemode">
+<area shape="rect" id="Node000001" title="The abstract base gamemode class is the root of any type that controls the overall functioning of the..." alt="" coords="5,225,160,251"/>
+<area shape="rect" id="Node000002" href="$class_maker_1_1_a_p_i_1_1_base.html" title=" " alt="" coords="9,152,61,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,187,77,224,73,227,48,190"/>
+<area shape="rect" id="Node000003" href="$interface_basick_1_1_submodules_1_1_assembly_1_1_interfaces_1_1_i_base.html" title=" " alt="" coords="54,5,109,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,45,41,153,36,151,71,43"/>
+<area shape="rect" id="Node000005" href="$interface_basick_1_1_submodules_1_1_assembly_1_1_interfaces_1_1_i_callable.html" title="A callable is any class which may be interacted with directly by Maker via the API...." alt="" coords="89,79,159,104"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="98,41,119,77,115,80,93,44"/>
+<area shape="rect" id="Node000004" href="$interface_maker_1_1_a_p_i_1_1_interfaces_1_1_i_gamemode.html" title=" " alt="" coords="85,152,177,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,190,93,227,88,224,113,187"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,118,132,152,127,152,124,118"/>
+</map>

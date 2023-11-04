@@ -1,0 +1,9 @@
+<map id="Basick.Submodules.Assembly.Exceptions.InvalidImplementationException" name="Basick.Submodules.Assembly.Exceptions.InvalidImplementationException">
+<area shape="rect" id="Node000001" title="Thrown when there are too few or too many implementations of an interface that should only be inherit..." alt="" coords="5,225,220,280"/>
+<area shape="rect" id="Node000002" href="$class_basick_1_1_submodules_1_1_assembly_1_1_exceptions_1_1_basick_assembly_exception.html" title="The base class for all assembly related errors that may occur in Maker: Online." alt="" coords="23,152,202,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,191,115,225,110,225,110,191"/>
+<area shape="rect" id="Node000003" href="$class_basick_1_1_exceptions_1_1_basick_exception.html" title=" " alt="" coords="53,79,173,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,118,115,152,110,152,110,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="73,5,153,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,44,115,79,110,79,110,44"/>
+</map>
