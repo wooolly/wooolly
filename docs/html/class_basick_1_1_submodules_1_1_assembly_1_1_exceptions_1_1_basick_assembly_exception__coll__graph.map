@@ -1,7 +1,0 @@
-<map id="Basick.Submodules.Assembly.Exceptions.BasickAssemblyException" name="Basick.Submodules.Assembly.Exceptions.BasickAssemblyException">
-<area shape="rect" id="Node000001" title="The base class for all assembly related errors that may occur in Maker: Online." alt="" coords="5,152,252,192"/>
-<area shape="rect" id="Node000002" href="$class_basick_1_1_exceptions_1_1_basick_exception.html" title=" " alt="" coords="69,79,189,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,118,131,152,126,152,126,118"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="89,5,169,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,44,131,79,126,79,126,44"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Basick.Submodules.Assembly.Interfaces.ICallable" name="Basick.Submodules.Assembly.Interfaces.ICallable">
-<area shape="rect" id="Node000001" title="A callable is any class which may be interacted with directly by Maker via the API...." alt="" coords="5,79,209,119"/>
-<area shape="rect" id="Node000002" href="$interface_basick_1_1_submodules_1_1_assembly_1_1_interfaces_1_1_i_base.html" title=" " alt="" coords="80,5,135,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,44,110,79,105,79,105,44"/>
-</map>

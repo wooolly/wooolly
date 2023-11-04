@@ -1,5 +1,0 @@
-<map id="Maker.API.XML.Interfaces.IManifestElement" name="Maker.API.XML.Interfaces.IManifestElement">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,181,119"/>
-<area shape="rect" id="Node000002" href="$interface_basick_1_1_submodules_1_1_x_m_l_1_1_interfaces_1_1_i_parsable.html" title="Any object which can be parsed by the IParser. This supports inner IParsable&#39;s." alt="" coords="55,5,131,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,44,96,79,91,79,91,44"/>
-</map>
