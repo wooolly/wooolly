@@ -1,0 +1,7 @@
+<map id="Maker.API.Gamemode" name="Maker.API.Gamemode">
+<area shape="rect" id="node1" title="The abstract base gamemode class is the root of any type that controls the overall functioning of the..." alt="" coords="5,229,172,256"/>
+<area shape="rect" id="node2" href="$classMaker_1_1API_1_1Base.html" title=" " alt="" coords="11,155,65,181"/>
+<area shape="rect" id="node3" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IBase.html" title=" " alt="" coords="59,5,118,32"/>
+<area shape="rect" id="node5" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1ICallable.html" title="A callable is any class which may be interacted with directly by Maker via the API...." alt="" coords="95,80,173,107"/>
+<area shape="rect" id="node4" href="$interfaceMaker_1_1API_1_1Interfaces_1_1IGamemode.html" title=" " alt="" coords="89,155,192,181"/>
+</map>

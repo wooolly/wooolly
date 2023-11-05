@@ -1,0 +1,4 @@
+var namespaceBasick_1_1Submodules_1_1Versioning_1_1Exceptions =
+[
+    [ "InvalidSegmentIndexException", "classBasick_1_1Submodules_1_1Versioning_1_1Exceptions_1_1InvalidSegmentIndexException.html", "classBasick_1_1Submodules_1_1Versioning_1_1Exceptions_1_1InvalidSegmentIndexException" ]
+];

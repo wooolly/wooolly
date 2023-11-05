@@ -1,0 +1,14 @@
+<map id="Basick.Exceptions.BasickException" name="Basick.Exceptions.BasickException">
+<area shape="rect" id="node1" title=" " alt="" coords="140,169,327,211"/>
+<area shape="rect" id="node3" href="$classBasick_1_1Exceptions_1_1MissingComponentException.html" title=" " alt="" coords="427,5,621,47"/>
+<area shape="rect" id="node4" href="$classBasick_1_1Exceptions_1_1MultipleSingletonException.html" title=" " alt="" coords="425,71,623,112"/>
+<area shape="rect" id="node5" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1BasickAssemblyException.html" title="The base class for all assembly related errors that may occur in Maker: Online." alt="" coords="390,136,658,177"/>
+<area shape="rect" id="node10" href="$classBasick_1_1Submodules_1_1Versioning_1_1Exceptions_1_1InvalidSegmentIndexException.html" title=" " alt="" coords="375,201,673,243"/>
+<area shape="rect" id="node11" href="$classBasick_1_1Submodules_1_1Weaver_1_1Exceptions_1_1MismatchedTypeException.html" title=" " alt="" coords="389,267,659,308"/>
+<area shape="rect" id="node12" href="$classBasick_1_1Submodules_1_1XML_1_1Exceptions_1_1NullParsableException.html" title=" " alt="" coords="394,332,654,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,177,92,203"/>
+<area shape="rect" id="node6" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1InvalidImplementationException.html" title="Thrown when there are too few or too many implementations of an interface that should only be inherit..." alt="" coords="750,23,995,79"/>
+<area shape="rect" id="node7" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1LockedLoadingException.html" title="Thrown when something attempts to load a DLL into a manager that is locked." alt="" coords="744,104,1001,145"/>
+<area shape="rect" id="node8" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1UnexpectedTypeException.html" title=" " alt="" coords="738,169,1007,211"/>
+<area shape="rect" id="node9" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1UnsupportedOverloadException.html" title=" " alt="" coords="721,235,1024,276"/>
+</map>

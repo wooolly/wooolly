@@ -1,0 +1,7 @@
+<map id="Basick.Submodules.Weaver.Attributes.WeavableAttribute" name="Basick.Submodules.Weaver.Attributes.WeavableAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="200,39,411,80"/>
+<area shape="rect" id="node4" href="$classBasick_1_1Submodules_1_1Weaver_1_1Attributes_1_1ThrowIfAttribute.html" title="This is a weavable attribute. When applied to a method, an exception will be thrown if a certain prop..." alt="" coords="484,5,689,47"/>
+<area shape="rect" id="node5" href="$classBasick_1_1Submodules_1_1Weaver_1_1Attributes_1_1ValidSystemPathAttribute.html" title="This attribute is a weavable attribute. When applied to a property, the return value from the getter ..." alt="" coords="459,71,715,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="39,21,118,47"/>
+<area shape="rect" id="node3" href="$interfaceBasick_1_1Submodules_1_1Weaver_1_1Interfaces_1_1IWeavableAttribute.html" title=" " alt="" coords="5,71,152,98"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="74,143,153,170"/>
+<area shape="rect" id="node2" href="$classBasick_1_1Attributes_1_1GetComponentAttribute.html" title=" " alt="" coords="279,5,513,47"/>
+<area shape="rect" id="node3" href="$classBasick_1_1Attributes_1_1GetComponentInParentAttribute.html" title=" " alt="" coords="279,71,513,112"/>
+<area shape="rect" id="node4" href="$classBasick_1_1Submodules_1_1Weaver_1_1Attributes_1_1WeavableAttribute.html" title=" " alt="" coords="291,267,501,308"/>
+<area shape="rect" id="node7" href="$classBasick_1_1Submodules_1_1XML_1_1Attributes_1_1XMLFileAttribute.html" title=" " alt="" coords="269,136,523,177"/>
+<area shape="rect" id="node8" href="$classBasick_1_1Submodules_1_1XML_1_1Attributes_1_1XPathAttribute.html" title=" " alt="" coords="269,201,523,243"/>
+<area shape="rect" id="node5" href="$classBasick_1_1Submodules_1_1Weaver_1_1Attributes_1_1ThrowIfAttribute.html" title="This is a weavable attribute. When applied to a method, an exception will be thrown if a certain prop..." alt="" coords="596,233,801,275"/>
+<area shape="rect" id="node6" href="$classBasick_1_1Submodules_1_1Weaver_1_1Attributes_1_1ValidSystemPathAttribute.html" title="This attribute is a weavable attribute. When applied to a property, the return value from the getter ..." alt="" coords="571,299,827,340"/>
+<area shape="rect" id="node9" href="$interfaceBasick_1_1Submodules_1_1Weaver_1_1Interfaces_1_1IWeavableAttribute.html" title=" " alt="" coords="5,267,221,308"/>
+</map>

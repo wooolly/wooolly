@@ -1,0 +1,6 @@
+<map id="Basick.Submodules.Weaver.Attributes.ThrowIfAttribute" name="Basick.Submodules.Weaver.Attributes.ThrowIfAttribute">
+<area shape="rect" id="node1" title="This is a weavable attribute. When applied to a method, an exception will be thrown if a certain prop..." alt="" coords="10,155,215,196"/>
+<area shape="rect" id="node2" href="$classBasick_1_1Submodules_1_1Weaver_1_1Attributes_1_1WeavableAttribute.html" title=" " alt="" coords="41,80,184,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node4" href="$interfaceBasick_1_1Submodules_1_1Weaver_1_1Interfaces_1_1IWeavableAttribute.html" title=" " alt="" coords="109,5,255,32"/>
+</map>

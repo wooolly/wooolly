@@ -1,0 +1,6 @@
+<map id="Maker.API.Interfaces.IPlayer" name="Maker.API.Interfaces.IPlayer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,209,181"/>
+<area shape="rect" id="node4" href="$classMaker_1_1API_1_1Player.html" title="A base class which represents a Maker: Online player. This base class is used by default when a playe..." alt="" coords="42,229,173,256"/>
+<area shape="rect" id="node2" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1ICallable.html" title="A callable is any class which may be interacted with directly by Maker via the API...." alt="" coords="68,80,147,107"/>
+<area shape="rect" id="node3" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IBase.html" title=" " alt="" coords="78,5,137,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Basick.Submodules.Assembly.Interfaces.ICallable" name="Basick.Submodules.Assembly.Interfaces.ICallable">
+<area shape="rect" id="node1" title="A callable is any class which may be interacted with directly by Maker via the API...." alt="" coords="138,80,357,121"/>
+<area shape="rect" id="node3" href="$interfaceMaker_1_1API_1_1Interfaces_1_1IGamemode.html" title=" " alt="" coords="5,169,244,196"/>
+<area shape="rect" id="node5" href="$interfaceMaker_1_1API_1_1Interfaces_1_1IPlayer.html" title=" " alt="" coords="268,169,472,196"/>
+<area shape="rect" id="node2" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IBase.html" title=" " alt="" coords="218,5,277,32"/>
+<area shape="rect" id="node4" href="$classMaker_1_1API_1_1Gamemode.html" title="The abstract base gamemode class is the root of any type that controls the overall functioning of the..." alt="" coords="41,244,208,271"/>
+<area shape="rect" id="node6" href="$classMaker_1_1API_1_1Player.html" title="A base class which represents a Maker: Online player. This base class is used by default when a playe..." alt="" coords="305,244,435,271"/>
+</map>

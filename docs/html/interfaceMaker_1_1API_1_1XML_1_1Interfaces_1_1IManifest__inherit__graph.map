@@ -1,0 +1,7 @@
+<map id="Maker.API.XML.Interfaces.IManifest" name="Maker.API.XML.Interfaces.IManifest">
+<area shape="rect" id="node1" title="A template of information provided in the manifest file, irrespective of source format (XML/CSV/...." alt="" coords="10,155,201,196"/>
+<area shape="rect" id="node5" href="$classMaker_1_1API_1_1XML_1_1Manifest.html" title="The Maker: Online XML class which holds all readonly data from the manifest file. This class doesn&#39;t ..." alt="" coords="16,244,195,271"/>
+<area shape="rect" id="node2" href="$interfaceMaker_1_1API_1_1Containers_1_1Interfaces_1_1IService.html" title=" " alt="" coords="17,80,92,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node4" href="$interfaceBasick_1_1Submodules_1_1XML_1_1Interfaces_1_1IParsable.html" title="Any object which can be parsed by the IParser. This supports inner IParsable&#39;s." alt="" coords="117,80,198,107"/>
+</map>

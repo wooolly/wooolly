@@ -1,0 +1,12 @@
+<map id="Basick.Submodules.XML.Interfaces.IParsable" name="Basick.Submodules.XML.Interfaces.IParsable">
+<area shape="rect" id="node1" title="Any object which can be parsed by the IParser. This supports inner IParsable&#39;s." alt="" coords="5,61,260,102"/>
+<area shape="rect" id="node2" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IManifest.html" title="A template of information provided in the manifest file, irrespective of source format (XML/CSV/...." alt="" coords="308,13,499,54"/>
+<area shape="rect" id="node4" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IManifestElement.html" title=" " alt="" coords="308,93,499,134"/>
+<area shape="rect" id="node3" href="$classMaker_1_1API_1_1XML_1_1Manifest.html" title="The Maker: Online XML class which holds all readonly data from the manifest file. This class doesn&#39;t ..." alt="" coords="553,5,731,32"/>
+<area shape="rect" id="node5" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IMakerServices.html" title=" " alt="" coords="547,57,737,98"/>
+<area shape="rect" id="node7" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IMetadata.html" title=" " alt="" coords="547,122,737,163"/>
+<area shape="rect" id="node9" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IPlugin.html" title=" " alt="" coords="547,187,737,229"/>
+<area shape="rect" id="node6" href="$classMaker_1_1API_1_1XML_1_1MakerServices.html" title=" " alt="" coords="785,64,1003,91"/>
+<area shape="rect" id="node8" href="$classMaker_1_1API_1_1XML_1_1Metadata.html" title=" " alt="" coords="802,129,986,156"/>
+<area shape="rect" id="node10" href="$classMaker_1_1API_1_1XML_1_1Plugin.html" title=" " alt="" coords="813,195,975,221"/>
+</map>

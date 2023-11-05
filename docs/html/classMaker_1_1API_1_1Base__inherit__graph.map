@@ -1,0 +1,6 @@
+<map id="Maker.API.Base" name="Maker.API.Base">
+<area shape="rect" id="node1" title=" " alt="" coords="114,80,237,107"/>
+<area shape="rect" id="node3" href="$classMaker_1_1API_1_1Gamemode.html" title="The abstract base gamemode class is the root of any type that controls the overall functioning of the..." alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node4" href="$classMaker_1_1API_1_1Player.html" title="A base class which represents a Maker: Online player. This base class is used by default when a playe..." alt="" coords="197,155,327,181"/>
+<area shape="rect" id="node2" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IBase.html" title=" " alt="" coords="146,5,205,32"/>
+</map>

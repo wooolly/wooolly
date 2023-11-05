@@ -1,0 +1,10 @@
+<map id="Maker.API.XML.Interfaces.IManifestElement" name="Maker.API.XML.Interfaces.IManifestElement">
+<area shape="rect" id="node1" title=" " alt="" coords="135,71,325,112"/>
+<area shape="rect" id="node3" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IMakerServices.html" title=" " alt="" coords="373,5,564,47"/>
+<area shape="rect" id="node5" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IMetadata.html" title=" " alt="" coords="373,71,564,112"/>
+<area shape="rect" id="node7" href="$interfaceMaker_1_1API_1_1XML_1_1Interfaces_1_1IPlugin.html" title=" " alt="" coords="373,136,564,177"/>
+<area shape="rect" id="node2" href="$interfaceBasick_1_1Submodules_1_1XML_1_1Interfaces_1_1IParsable.html" title="Any object which can be parsed by the IParser. This supports inner IParsable&#39;s." alt="" coords="5,78,87,105"/>
+<area shape="rect" id="node4" href="$classMaker_1_1API_1_1XML_1_1MakerServices.html" title=" " alt="" coords="612,13,829,39"/>
+<area shape="rect" id="node6" href="$classMaker_1_1API_1_1XML_1_1Metadata.html" title=" " alt="" coords="629,78,813,105"/>
+<area shape="rect" id="node8" href="$classMaker_1_1API_1_1XML_1_1Plugin.html" title=" " alt="" coords="639,143,802,170"/>
+</map>

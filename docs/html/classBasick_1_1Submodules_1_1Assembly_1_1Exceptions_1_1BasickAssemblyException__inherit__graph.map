@@ -1,0 +1,9 @@
+<map id="Basick.Submodules.Assembly.Exceptions.BasickAssemblyException" name="Basick.Submodules.Assembly.Exceptions.BasickAssemblyException">
+<area shape="rect" id="node1" title="The base class for all assembly related errors that may occur in Maker: Online." alt="" coords="317,119,585,161"/>
+<area shape="rect" id="node4" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1InvalidImplementationException.html" title="Thrown when there are too few or too many implementations of an interface that should only be inherit..." alt="" coords="662,5,907,61"/>
+<area shape="rect" id="node5" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1LockedLoadingException.html" title="Thrown when something attempts to load a DLL into a manager that is locked." alt="" coords="656,86,913,127"/>
+<area shape="rect" id="node6" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1UnexpectedTypeException.html" title=" " alt="" coords="650,151,919,193"/>
+<area shape="rect" id="node7" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1UnsupportedOverloadException.html" title=" " alt="" coords="633,217,936,258"/>
+<area shape="rect" id="node2" href="$classBasick_1_1Exceptions_1_1BasickException.html" title=" " alt="" coords="140,127,269,153"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,127,92,153"/>
+</map>

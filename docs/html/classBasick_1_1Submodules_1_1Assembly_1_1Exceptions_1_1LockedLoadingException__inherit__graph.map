@@ -1,0 +1,6 @@
+<map id="Basick.Submodules.Assembly.Exceptions.LockedLoadingException" name="Basick.Submodules.Assembly.Exceptions.LockedLoadingException">
+<area shape="rect" id="node1" title="Thrown when something attempts to load a DLL into a manager that is locked." alt="" coords="5,229,263,271"/>
+<area shape="rect" id="node2" href="$classBasick_1_1Submodules_1_1Assembly_1_1Exceptions_1_1BasickAssemblyException.html" title="The base class for all assembly related errors that may occur in Maker: Online." alt="" coords="37,155,231,181"/>
+<area shape="rect" id="node3" href="$classBasick_1_1Exceptions_1_1BasickException.html" title=" " alt="" coords="69,80,199,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="91,5,177,32"/>
+</map>

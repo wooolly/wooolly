@@ -1,0 +1,7 @@
+<map id="Maker.API.Player" name="Maker.API.Player">
+<area shape="rect" id="node1" title="A base class which represents a Maker: Online player. This base class is used by default when a playe..." alt="" coords="10,229,141,256"/>
+<area shape="rect" id="node2" href="$classMaker_1_1API_1_1Base.html" title=" " alt="" coords="5,155,60,181"/>
+<area shape="rect" id="node3" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IBase.html" title=" " alt="" coords="46,5,105,32"/>
+<area shape="rect" id="node5" href="$interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1ICallable.html" title="A callable is any class which may be interacted with directly by Maker via the API...." alt="" coords="76,80,155,107"/>
+<area shape="rect" id="node4" href="$interfaceMaker_1_1API_1_1Interfaces_1_1IPlayer.html" title=" " alt="" coords="85,155,151,181"/>
+</map>
