@@ -44,6 +44,10 @@ var NAVTREE =
     ] ],
     [ "Getting Started", "md_getting_started.html", null ],
     [ "Manifest", "md_manifest.html", null ],
+    [ "Maker.API", "md__home_runner_work_Maker_Online_Maker_Online_Assets_API_README.html", [
+      [ "Maker Event Functions", "md__home_runner_work_Maker_Online_Maker_Online_Assets_API_README.html#autotoc_md16", null ],
+      [ "Constructors", "md__home_runner_work_Maker_Online_Maker_Online_Assets_API_README.html#autotoc_md17", null ]
+    ] ],
     [ "Packages", "namespaces.html", [
       [ "Packages", "namespaces.html", "namespaces_dup" ],
       [ "Package Functions", "namespacemembers.html", [

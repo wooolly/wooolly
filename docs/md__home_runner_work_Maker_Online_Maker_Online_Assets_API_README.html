@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Maker: Online: Basick.Submodules.Assembly.Interfaces.IConstructorInitializer Interface Reference</title>
+<title>Maker: Online: Maker.API</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -66,7 +66,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
-$(document).ready(function(){initNavTree('interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IConstructorInitializer.html',''); initResizable(); });
+$(document).ready(function(){initNavTree('md__home_runner_work_Maker_Online_Maker_Online_Assets_API_README.html',''); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -84,28 +84,33 @@ $(document).ready(function(){initNavTree('interfaceBasick_1_1Submodules_1_1Assem
 </iframe>
 </div>
 
-<div class="header">
+<div class="PageDoc"><div class="header">
   <div class="headertitle">
-<div class="title">Basick.Submodules.Assembly.Interfaces.IConstructorInitializer Interface Reference</div>  </div>
+<div class="title"><a class="el" href="namespaceMaker_1_1API.html">Maker.API</a> </div>  </div>
 </div><!--header-->
 <div class="contents">
-
-<p>Classes which implement this interface should be passed to cached constructor delegates. The public properties should match those in the caller class.  
- <a href="interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IConstructorInitializer.html#details">More...</a></p>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Classes which implement this interface should be passed to cached constructor delegates. The public properties should match those in the caller class. </p>
-<p>For caller readonly properties, set the internal properties to private and pass them into the OnInit method instead. OnInit should generally be favoured over OnInit because otherwise it forces the gamemode developer to implement a constructor with those parameters. </p>
-
-<p class="definition">Definition at line <a class="el" href="IConstructorInitializer_8cs_source.html#l00015">15</a> of file <a class="el" href="IConstructorInitializer_8cs_source.html">IConstructorInitializer.cs</a>.</p>
-</div><hr/>The documentation for this interface was generated from the following file:<ul>
-<li>/home/runner/work/Maker-Online/Maker-Online/Assets/Basick/Submodules/Assembly/Interfaces/<a class="el" href="IConstructorInitializer_8cs_source.html">IConstructorInitializer.cs</a></li>
-</ul>
-</div><!-- contents -->
+<div class="textblock"><p>The <a class="el" href="namespaceMaker_1_1API.html">Maker.API</a> is the primary component between <a class="el" href="namespaceMaker.html">Maker</a>: Online and player-created gamemodes. There's various implementation details which are important to understand the reasoning behind, hence this README file for the API.</p>
+<h1><a class="anchor" id="autotoc_md16"></a>
+Maker Event Functions</h1>
+<p>A "Maker Event Function" is any method inside a base class of <a class="el" href="namespaceMaker_1_1API.html">Maker.API</a>, which is non-public and invoked by <a class="el" href="namespaceMaker.html">Maker</a>: Online. They're equivalent to Unity's event functions.</p>
+<p>The reason they're non-public and not overridable (for the most part) is for a few reasons... 1) <b>Fail safe:</b> They shouldn't be called by anything other than <a class="el" href="namespaceMaker.html">Maker</a>: Online, so it saves the developer from themselves. 2) <b>Optimisation:</b> <a class="el" href="namespaceMaker.html">Maker</a>: Online preloads all event functions, and those that aren't present will not be loaded and a call will not be attempted. With an interface that forces implementation, or a base class which provides virtual methods, this optimisation wouldn't be possible because the methods would always be loaded and always be invoked. It's a minor optimisation. 3) <b>Dependency Injection:</b> Event functions support dependency injection, thus, by having no interface to conform to, we can have any parameters we desire as the gamemode developer, and they'll be injected.</p>
+<h1><a class="anchor" id="autotoc_md17"></a>
+Constructors</h1>
+<p>To create a new object that represents something within the game, <a class="el" href="namespaceMaker.html">Maker</a> requires a constructor. Constructors are a little different to methods in C#, and cannot be inherited, thus we don't want to force gamemode developers to implement a specific constructor each time - it's all about freedom and simplicity. Therefore, we have a special event function called OnInit for most base classes (Gamemode isn't one) which gets called before any other, and is designed to be a replacement for using a constructor. By using a constructor, there's no guarantee that everything will be initialised at that point, so always do setup after calling base.OnInit() within the override.</p>
+<blockquote class="doxtable">
+<p><b>Note I:</b> Gamemode is a little different to most other base classes. </p>
+</blockquote>
+<p>Gamemodes are instantiated before caching and other important processes have occurred, hence why they're so different.</p>
+<blockquote class="doxtable">
+<p><b>Note II:</b> Gamemodes are abstract since the gamemode should have at least </p>
+</blockquote>
+<p>one and there can't be a default. </p>
+</div></div><!-- contents -->
+</div><!-- PageDoc -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="namespaceBasick.html">Basick</a></li><li class="navelem"><a class="el" href="namespaceBasick_1_1Submodules.html">Submodules</a></li><li class="navelem"><a class="el" href="namespaceBasick_1_1Submodules_1_1Assembly.html">Assembly</a></li><li class="navelem"><a class="el" href="namespaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces.html">Interfaces</a></li><li class="navelem"><a class="el" href="interfaceBasick_1_1Submodules_1_1Assembly_1_1Interfaces_1_1IConstructorInitializer.html">IConstructorInitializer</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
